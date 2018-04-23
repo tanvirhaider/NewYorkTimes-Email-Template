@@ -1,0 +1,85 @@
+@import 'settings';
+@import 'foundation-emails';
+@import 'template/template';
+
+
+.top {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.no-margin-bottom {
+    margin-bottom: 0px;
+}
+
+.underline {
+    color: #FF8000;
+    font-size: 10px;
+    line-height: 16px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    text-decoration: underline;
+}
+
+.top-small {
+    font-size: 10px;
+    line-height: 16px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+
+.cta {
+    color: #ffc446;
+    margin-bottom: 0px;
+    margin-top: 10px;
+    vertical-align: middle;
+    width: 100% !important;
+    text-align: center;
+    font-style: bold;
+    font-size: 14px;
+}
+
+.itemStyle {
+    font-size: 14px;
+}
+
+.ctaColStyle {
+    padding-bottom: 10px !important;
+}
+
+.sectionTitle {
+    margin-bottom: 0px;
+}
+
+.sectionSecondaryTitle {
+    color: grey;
+}
+
+.cta-button {
+    background-color: black;
+   vertical-align: middle;
+   padding-bottom: 10px;
+   height: 20px;
+   text-align: center;
+
+   .small-12 large-12 columns first last {
+       padding-bottom: 12px;
+   }
+
+}
+
+@media screen {
+    html {
+        font-family: Arial, Helvetica, sans-serif;
+        font-weight: bold;
+        font-size: 12px;
+        background-color: #c0c0c0;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    html {
+       // font-family: Arial, Helvetica, sans-serif;
+    }
+}
+
