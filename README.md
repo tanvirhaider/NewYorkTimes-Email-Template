@@ -1,57 +1,31 @@
 # NYT Email Template
 
-## Step 1:  Install NodeJS and NPM (Node Package Manager)
+### Step 1:  Install NodeJS and NPM (Node Package Manager)
 https://nodejs.org/en/
 
-## Step 2:  Clone the repo in your project directory
+### Step 2:  Clone the repo in your project directory
 ```bash
 git clone git@github.com:tanvirhaider/NewYorkTimes-Email-Template.git
 ```
 
-
-This is the official starter project for [Foundation for Emails](http://foundation.zurb.com/emails), a framework for creating responsive HTML devices that work in any email client. It has a Gulp-powered build system with these features:
-
-- Handlebars HTML templates with [Panini](http://github.com/zurb/panini)
-- Simplified HTML email syntax with [Inky](http://github.com/zurb/inky)
-- Sass compilation
-- Image compression
-- Built-in BrowserSync server
-- Full email inlining process
-
-## Installation
-
-To use this template, your computer needs [Node.js](https://nodejs.org/en/) 0.12 or greater. The template can be installed with the Foundation CLI, or downloaded and set up manually.
-
-### Using the CLI
-
-Install the Foundation CLI with this command:
-
+### Step 3:  CD into downloaded file
 ```bash
-npm install foundation-cli --global
+cd NewYorkTimes-Email-Template/
 ```
 
-Use this command to set up a blank Foundation for Emails project:
-
+### Step 4:  Install Necessary Node Modules
 ```bash
-foundation new --framework emails
-```
-
-The CLI will prompt you to give your project a name. The template will be downloaded into a folder with this name.
-
-### Manual Setup
-
-To manually set up the template, first download it with Git:
-
-```bash
-git clone https://github.com/zurb/foundation-emails-template projectname
-```
-
-Then open the folder in your command line, and install the needed dependencies:
-
-```bash
-cd projectname
 npm install
 ```
+
+### Step 5:  Run Build to see the preview
+```bash
+npm run build
+```
+
+
+
+
 
 ## Build Commands
 
