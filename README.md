@@ -1,8 +1,13 @@
 # NYT Email Template
 
-[![devDependency Status](https://david-dm.org/zurb/foundation-emails-template/dev-status.svg)](https://david-dm.org/zurb/foundation-emails-template#info=devDependencies)
+## Step 1:  Install NodeJS and NPM (Node Package Manager)
+https://nodejs.org/en/
 
-**Please open all issues with this template on the main [Foundation for Emails](http://github.com/zurb/foundation-emails/issues) repo.**
+## Step 2:  Clone the repo in your project directory
+```bash
+git clone git@github.com:tanvirhaider/NewYorkTimes-Email-Template.git
+```
+
 
 This is the official starter project for [Foundation for Emails](http://foundation.zurb.com/emails), a framework for creating responsive HTML devices that work in any email client. It has a Gulp-powered build system with these features:
 
