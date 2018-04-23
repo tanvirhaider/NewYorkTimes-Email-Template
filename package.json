@@ -1,8 +1,8 @@
 {
-  "name": "foundation-emails-template",
+  "name": "nyt-emails-template",
   "version": "1.0.0",
   "description": "Basic template for a Foundation for Emails project.",
-  "repository": "zurb/foundation-emails-template",
+  "repository": "tanvirhaider/NewYorkTimes-Email-Template.git",
   "main": "gulpfile.babel.js",
   "scripts": {
     "start": "gulp",

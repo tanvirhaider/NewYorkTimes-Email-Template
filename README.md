@@ -3,22 +3,28 @@
 ### Step 1:  Install NodeJS and NPM (Node Package Manager)
 https://nodejs.org/en/
 
-### Step 2:  Clone the repo in your project directory
+
+### Step 2: install Gulp
+```bash
+sudo npm install --global gulp
+```
+
+### Step 3:  Clone the repo in your project directory
 ```bash
 git clone git@github.com:tanvirhaider/NewYorkTimes-Email-Template.git
 ```
 
-### Step 3:  CD into downloaded file
+### Step 4:  CD into downloaded file
 ```bash
 cd NewYorkTimes-Email-Template/
 ```
 
-### Step 4:  Install Necessary Node Modules
+### Step 5:  Install Necessary Node Modules
 ```bash
 npm install
 ```
 
-### Step 5:  Run Build to see the preview
+### Step 6:  Run Build to see the preview
 ```bash
 npm run build
 ```
