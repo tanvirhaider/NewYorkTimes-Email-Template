@@ -1,31 +1,31 @@
 # NYT Email Template
 
 #### if you already have nodeJS, NPM and Gulp installed in your machine, you can skip step 1 & 2.
-### Step 1: Install NodeJS and NPM (Node Package Manager)
+#### Step 1: Install NodeJS and NPM (Node Package Manager)
 https://nodejs.org/en/
 
 
-### Step 2: install Gulp
+#### Step 2: install Gulp
 ```bash
 sudo npm install --global gulp
 ```
 
-### Step 3:  Clone the repo in your project directory
+#### Step 3:  Clone the repo in your project directory
 ```bash
 git clone https://github.com/tanvirhaider/NewYorkTimes-Email-Template.git
 ```
 
-### Step 4:  CD into downloaded file
+#### Step 4:  CD into downloaded file
 ```bash
 cd NewYorkTimes-Email-Template/
 ```
 
-### Step 5:  Install Necessary Node Modules
+#### Step 5:  Install Necessary Node Modules
 ```bash
 npm install
 ```
 
-### Step 6:  Run Build to see the preview
+#### Step 6:  Run Build to see the preview
 ```bash
 npm run build
 ```
@@ -34,7 +34,7 @@ npm run build
 
 
 
-## Build Commands
+### Build Commands
 
 Run `npm start` to kick off the build process. A new browser tab will open with a server pointing to your project files.
 
