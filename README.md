@@ -1,6 +1,7 @@
 # NYT Email Template
 
-### Step 1:  Install NodeJS and NPM (Node Package Manager)
+#### if you already have nodeJS, NPM and Gulp installed in your machine, you can skip step 1 & 2.
+### Step 1: Install NodeJS and NPM (Node Package Manager)
 https://nodejs.org/en/
 
 
@@ -11,7 +12,7 @@ sudo npm install --global gulp
 
 ### Step 3:  Clone the repo in your project directory
 ```bash
-git clone git@github.com:tanvirhaider/NewYorkTimes-Email-Template.git
+git clone https://github.com/tanvirhaider/NewYorkTimes-Email-Template.git
 ```
 
 ### Step 4:  CD into downloaded file
