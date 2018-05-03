@@ -1,8 +1,10 @@
 
 ### Asset Specs:
-#### top image: 640x330 px (the height can be different)
-#### second image: 640x330 px (the height can be different)
-#### thumbnail images: 520x346 px
+```
+##### top image: 640x330 px (the height can be different)
+##### second image: 640x330 px (the height can be different)
+##### thumbnail images: 520x346 px
+```
 
 # NYT Email Template
 
