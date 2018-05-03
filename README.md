@@ -1,3 +1,9 @@
+
+### Asset Specs:
+#### top image: 640x330 px (the height can be different)
+#### second image: 640x330 px (the height can be different)
+#### thumbnail images: 520x346 px
+
 # NYT Email Template
 
 #### if you already have nodeJS, NPM and Gulp installed in your machine, you can skip step 1 & 2.
@@ -29,7 +35,6 @@ npm install
 ```bash
 npm run build
 ```
-
 
 
 
